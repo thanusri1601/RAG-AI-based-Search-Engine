@@ -90,11 +90,5 @@ In addition to these next steps, we are also interested in exploring the followi
 
 <hr>
 
-## Authors
 
-- [@Amey Bhilegaonkar](https://www.linkedin.com/in/amey-bhilegaonkar/)
-- [@Rohan Awhad](https://www.linkedin.com/in/rohanawhad/)
-- [@Saurabh Zinjad](https://www.linkedin.com/in/saurabhzinjad/)
-- [@Thinh Tran](https://www.linkedin.com/in/cong-thinh-tran/)
-- [@Dat Nguyen](https://www.linkedin.com/in/dat-nguyen-6b26ab266/)
 
