@@ -1,6 +1,4 @@
-# Team SouL: Fox Valley
 
-![Team SouL](data/SouL.png)
 
 <hr>
 
